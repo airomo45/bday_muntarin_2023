@@ -11,6 +11,8 @@ import cardBG from "./card1.png";
 import gold from "./gold.jpeg";
 import cash from "./cash.jpeg";
 import steak from "./steak.jpeg";
+import qr from "./qr.png";
+
 import brunch from "./brunch.jpeg";
 import Confetti from "react-confetti";
 import useWindowSize from "react-use/lib/useWindowSize";
@@ -122,6 +124,7 @@ function App() {
           <div className="cardInside">
             <h3 className="back">HAPPY BIRTHDAY!!</h3>
             <p>Dear Muntarin,</p>
+            <img className="qr-image" src={qr} alt="Option A" />
             <p>
               Happy birthday!! I hope your day is filled with lots of love and
               laughter! May all of your birthday wishes come true.
