@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bday_muntarin_2023/static/css/main.ab46ee75.css",
+    "main.js": "/bday_muntarin_2023/static/js/main.558cac9c.js",
+    "static/js/787.4e68ee32.chunk.js": "/bday_muntarin_2023/static/js/787.4e68ee32.chunk.js",
+    "static/media/2.png": "/bday_muntarin_2023/static/media/2.2ac9e9888262d8873cfe.png",
+    "static/media/4.png": "/bday_muntarin_2023/static/media/4.4bd90eed9a6f788adc57.png",
+    "static/media/5.png": "/bday_muntarin_2023/static/media/5.d43f5ba86b5a5f52e2cb.png",
+    "static/media/brunch.jpeg": "/bday_muntarin_2023/static/media/brunch.ef76f9eea75b4a17e7ed.jpeg",
+    "static/media/cash.jpeg": "/bday_muntarin_2023/static/media/cash.21ce4bbbf88af49efdfb.jpeg",
+    "static/media/steak.jpeg": "/bday_muntarin_2023/static/media/steak.6252a7c07b1878181f69.jpeg",
+    "static/media/a.jpg": "/bday_muntarin_2023/static/media/a.e33a48e1bb5a5b383c8b.jpg",
+    "static/media/b.jpg": "/bday_muntarin_2023/static/media/b.c75535706f8d099ede55.jpg",
+    "static/media/card1.png": "/bday_muntarin_2023/static/media/card1.c137904746a290cd1dd3.png",
+    "static/media/gold.jpeg": "/bday_muntarin_2023/static/media/gold.9e85eec0bb900cd51c7e.jpeg",
+    "index.html": "/bday_muntarin_2023/index.html",
+    "main.ab46ee75.css.map": "/bday_muntarin_2023/static/css/main.ab46ee75.css.map",
+    "main.558cac9c.js.map": "/bday_muntarin_2023/static/js/main.558cac9c.js.map",
+    "787.4e68ee32.chunk.js.map": "/bday_muntarin_2023/static/js/787.4e68ee32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab46ee75.css",
+    "static/js/main.558cac9c.js"
+  ]
+}
